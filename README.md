@@ -6,4 +6,4 @@ Project goals:
 
 1) Reproduce the model described in paper.
 
-2) Check the model on alternative datasets (possible with missing data)
+2) Check the model on alternative datasets (possible with missing data).
